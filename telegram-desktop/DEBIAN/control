@@ -1,0 +1,14 @@
+Package: telegram-desktop
+Version: ${version}
+Installed-Size: ${installedSize}
+Architecture: amd64
+Maintainer: VB
+Section: net
+Priority: optional
+Homepage: https://desktop.telegram.org
+Description: fast and secure messaging application
+ Telegram is a messaging app with a focus on speed and security, it is
+ super-fast, simple and free. You can use Telegram on all your devices at the
+ same time — your messages sync seamlessly across any number of your phones,
+ tablets or computers.
+ 
